@@ -1,28 +1,13 @@
-## Olá! Eu Sou o Selton Alves
+### Bem vindo ao meu perfil 🖖
+**Eu me chamo Ezequiel mas fique a vontade para me chamar de Zeki**
+![  ](https://camo.githubusercontent.com/2bfe62d89efdc482d3fc7fd0c92e053814b8ec6c/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f65353435393561336463386364656330393436323462643765323961376461382f74756d626c725f6e3968666e71366e5247317461303769386f315f3530302e676966)
 
-- 👨‍🎓 Cursando o Tecnologo Em Análise e Desenvolvimento De Sistema
-- 👨‍💻 Conhecendo Front-End
+- 📚 Sou formado em Analíse e desenvolvimento de sistema, atualmente estudando Ciência de dados.
+- 🦏 Eu estou focando meus estudos em Python/Pandas e Power BI.
+- 🙌 Adoro projetos Open Source e colaboro sempre que possivel.
+- 😎 Meu primeiro projeto é [Sistema de cadastro](https://github.com/zekicarvalho/CadastroPhp) , mas ainda tenho muito a melhorar nele.
 
-<div align="center">
-  <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeltonAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeltonAlves&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Selton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Selton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Selton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-  
-  ##
-  
-<div> 
+  👇   Você pode me encontrar aqui 👇
  
-  <a href="https://www.instagram.com/selton.alvees" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:Selton.Alvess1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/selton-alves-38b548234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+   [![linkedin](https://user-images.githubusercontent.com/37448340/87230217-d1223200-c384-11ea-83c1-27175c5f45b2.png)](https://www.linkedin.com/in/ezequielcarvalho/)
